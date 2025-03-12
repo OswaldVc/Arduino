@@ -49,7 +49,7 @@ Este repositorio está diseñado para aprender y desarrollar proyectos con **Ard
 ## 🚀 Instalación y Uso
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/OswaldVc/Arduino.git
    ```
 2. Abre el proyecto en Arduino IDE o PlatformIO.
 3. Instala las librerías necesarias.
@@ -62,4 +62,4 @@ Este proyecto está bajo la licencia **MIT**, puedes usarlo y modificarlo librem
 Si deseas contribuir, por favor abre un **issue** o envía un **pull request** con mejoras.
 
 ---
-**💡 Autor:** [Néstor O. Vásquez C.](https://github.com/OswaldoVc) | 🚀 ¡Aprendamos juntos sobre Arduino y ESP32!
+**💡 Autor:** [Néstor O. Vásquez C.](https://github.com/OswaldVc) | 🚀 ¡Aprendamos juntos sobre Arduino y ESP32!
